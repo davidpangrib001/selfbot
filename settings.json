@@ -1,16 +1,16 @@
 {
      "prefix": "#",
-     "namalu" : "Onwernya 🗿",
+     "namalu" : "David",
      "nomerlu": "6282160268332",
-     "namabot": "eXperience",
+     "namabot": "One Bot",
      "nomerbot": "6285754768720",
      "gender" : "Cowok",
-     "copyright" : "AlyaBotXd",
+     "copyright" : "One Bot By David",
      "Shopee" : "_•",
      "Gopay" : "Coming Soon..",
      "Dana" : "Coming Soon..",
      "Ovo" : "Coming Soon.",
-     "namaDocument": "eXperience-BoT",
+     "namaDocument": "Hai, Tuan",
      "joinGcExtream": false,
      "Anticall": true,
      "multi": true,
@@ -19,15 +19,15 @@
      "forwarding": false,
      "antitroli" : false,
      "autovn" : true,
-     "autosticker" : false,
+     "autosticker" : true,
      "autorespon" : false,
      "autotyping" : true,
      "chatBot" : false,
      "autoread" : true,
      "katalogMenu": false,
-     "troliMenu": false,
+     "troliMenu": true,
      "lokasiMenu": false,
-     "documentMenu": true,
+     "documentMenu": false,
      "autoblockcmd" : false,
      "welcomeType1": false,
      "welcomeType2": true,
@@ -37,12 +37,12 @@
      "gamewaktu": 60,
 	 "limitCount": 30,
 	 "gcount": {
-		"prem": 30,
-		"user": 20
+		"prem": 100,
+		"user": 10
 },
      "lolkey": "3a5fadc9dfb7b4b1f2a5a8e3",
-     "zeks": "officialdittaz", 
-     "xteam": "170342e43e147afa"
+     "zeks": "apivinz", 
+     "xteam": "cristian9407"
 }
 
    
